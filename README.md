@@ -2,9 +2,10 @@ Do you want to change you desktop background with one click?
 
 Here is how.
 
-1. Create a folder in your disk D: and name it "wallpapers"
-2. Copy the wallpapers.ps1 file inside this folder. (In order to work it is crucial to be exactly in disk D: with folder name "wallpapers" unless you know how to change the .ps1 script).
-3. Place the "change wallpaper" short cut file on your desktop.
+1. Unzip the file.
+2. Create a folder in your disk D: and name it "wallpapers"
+3. Copy the wallpapers.ps1 file inside this folder. (In order to work it is crucial to be exactly in disk D: with folder name "wallpapers" unless you know how to change the .ps1 script).
+4. Place the "change wallpaper" short cut file on your desktop.
    
 Done
 

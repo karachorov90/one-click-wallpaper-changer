@@ -1,4 +1,5 @@
 Do you want to change you desktop background with one click?
+Something like Microsoft Bing but here you get to choose from your own pictures.
 
 Here is how.
 
@@ -9,4 +10,4 @@ Here is how.
    
 Done
 
-Now place pictures inside the wallpapers folder that your want to be set as background. When click on the short cut the script will change your desktop wallpaper with randomly selected picture from the folder.
+Now place pictures inside the wallpapers folder that your want to be set as a background. When click on the short cut the script will automatically change your desktop wallpaper with randomly selected picture from the folder.

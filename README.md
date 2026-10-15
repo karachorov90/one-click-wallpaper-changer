@@ -12,5 +12,5 @@ Done
 
 Now place pictures inside the wallpapers folder that your want to be set as a background. When click on the short cut the script will automatically change your desktop wallpaper with randomly selected picture from the folder.
 
-For sys anmins!
+For sys admins!
 Change the script and short cut paths with you local file server directory where you want to place the folder and copy the short cut to the users desktops.
